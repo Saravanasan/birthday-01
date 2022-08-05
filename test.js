@@ -11,6 +11,7 @@ app.use(express.static(__dirname + ''))
 app.get('*', function (request, response){
   response.sendFile(path.resolve(__dirname, '', 'index.html'))
 })
+const PORT = process.env.PORT || 80;
 
-app.listen(port)
-console.log("server started on port " + port)
+app.listen(PORT)
+console.log("server started on port " + PORT)
