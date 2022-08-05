@@ -1,0 +1,22 @@
+{
+  "name": "birthday-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saravanasan/birthday-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saravanasan/birthday-01/issues"
+  },
+  "homepage": "https://github.com/Saravanasan/birthday-01#readme"
+}
